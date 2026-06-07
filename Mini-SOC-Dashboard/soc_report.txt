@@ -1,0 +1,12 @@
+MINI SOC DASHBOARD REPORT
+=========================
+INFO Logs: 3
+WARNING Logs: 2
+ERROR Logs: 3
+
+Security Alerts:
+WARNING Multiple failed login attempts
+ERROR Unauthorized access detected
+WARNING Suspicious IP activity
+ERROR Malware signature detected
+ERROR Brute force attack detected

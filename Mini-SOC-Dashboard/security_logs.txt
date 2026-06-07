@@ -1,0 +1,8 @@
+INFO User login successful
+WARNING Multiple failed login attempts
+ERROR Unauthorized access detected
+INFO Firewall rule updated
+WARNING Suspicious IP activity
+ERROR Malware signature detected
+INFO System scan completed
+ERROR Brute force attack detected
