@@ -1,0 +1,7 @@
+INFO User Login Successful
+ERROR Database Connection Failed
+WARNING Disk Space Low
+INFO Payment Successful
+ERROR Login Failed
+WARNING High CPU Usage
+INFO User Logout
