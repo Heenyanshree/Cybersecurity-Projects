@@ -1,0 +1,13 @@
+AI PHISHING DETECTION REPORT
+============================
+URL: http://secure-login-bank-update.com
+Risk Score: 7
+Prediction: Phishing
+
+Reasons:
+- Uses HTTP instead of HTTPS
+- Contains hyphen
+- Contains suspicious word: login
+- Contains suspicious word: update
+- Contains suspicious word: secure
+- Contains suspicious word: bank

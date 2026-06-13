@@ -1,0 +1,9 @@
+AI THREAT INTELLIGENCE REPORT
+=============================
+IP Addresses: ['192.168.1.100']
+Domains: ['malicious-domain.com', 'Ransomware.XYZ']
+Malware Names: ['Trojan.Win32', 'Ransomware.XYZ']
+IOC Count: 2
+Malware Count: 2
+Suspicious Count: 1
+Risk Score: 11

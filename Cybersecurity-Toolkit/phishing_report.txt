@@ -1,0 +1,5 @@
+PHISHING REPORT
+================
+URL: http://secure-login-bank-update.com
+Risk Score: 7
+Result: Phishing URL

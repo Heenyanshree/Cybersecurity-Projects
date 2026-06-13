@@ -1,0 +1,5 @@
+INFO User login successful
+WARNING Multiple failed login attempts
+ERROR Unauthorized access detected
+INFO Firewall rule updated
+ERROR Malware detected

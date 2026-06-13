@@ -1,0 +1,12 @@
+AI SOC ANALYST REPORT
+=====================
+INFO: 2
+WARNING: 2
+ERROR: 2
+Risk Score: 6
+
+Alert Classification:
+WARNING Multiple failed login attempts => Authentication Threat
+ERROR SQL injection detected => Web Attack
+ERROR Malware detected => Malware
+WARNING Suspicious network traffic => Network Threat

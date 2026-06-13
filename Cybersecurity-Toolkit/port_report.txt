@@ -1,0 +1,6 @@
+PORT SCAN REPORT
+================
+Target: 127.0.0.1
+Port Range: 1-100
+
+No open ports found.

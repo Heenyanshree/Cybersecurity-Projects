@@ -1,0 +1,4 @@
+FIREWALL ANALYSIS REPORT
+========================
+Allow Rules: 512
+Block Rules: 0

@@ -1,0 +1,6 @@
+INFO User login successful
+WARNING Multiple failed login attempts
+ERROR SQL injection detected
+INFO File uploaded
+ERROR Malware detected
+WARNING Suspicious network traffic

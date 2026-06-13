@@ -1,0 +1,16 @@
+Completed Projects
+
+1. Password Generator
+2. Password Strength Checker
+3. File Organizer
+4. Expense Tracker
+5. Password Manager
+6. Port Scanner
+7. Advanced Port Scanner
+8. Vulnerability Scanner
+9. Phishing URL Detector
+10. AI Phishing Detector
+11. Log Analyzer
+12. Network Scanner
+13. Mini SOC Dashboard
+14. Cybersecurity Toolkit V3

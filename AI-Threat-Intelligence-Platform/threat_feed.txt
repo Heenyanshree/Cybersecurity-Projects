@@ -1,0 +1,5 @@
+MALWARE Trojan.Win32 detected
+IOC 192.168.1.100
+IOC malicious-domain.com
+MALWARE Ransomware.XYZ detected
+SUSPICIOUS PowerShell execution
