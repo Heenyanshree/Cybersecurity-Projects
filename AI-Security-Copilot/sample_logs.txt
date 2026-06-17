@@ -1,0 +1,6 @@
+Failed login attempt from IP 192.168.1.10
+Multiple failed SSH login attempts from 45.33.32.156
+SQL injection attempt detected: ' OR '1'='1
+Malware file detected: trojan.exe
+Suspicious port scanning activity from 10.0.0.5
+Unknown suspicious network activity
