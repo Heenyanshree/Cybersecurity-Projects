@@ -1,0 +1,5 @@
+device_id,employee_id,device_name,authorized
+D001,101,Laptop-Heenyan,Yes
+D002,102,Laptop-Rahul,Yes
+D003,103,Laptop-Priya,Yes
+D999,000,Unknown-Device,No

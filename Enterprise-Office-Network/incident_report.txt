@@ -1,0 +1,14 @@
+ENTERPRISE OFFICE NETWORK INCIDENT REPORT
+=========================================
+Total Employees: 4
+Total Devices: 4
+Total Logs: 8
+Risk Score: 21
+
+Security Alerts:
+- Failed Login detected from Employee ID 104 at 192.168.1.99
+- Failed Login detected from Employee ID 104 at 192.168.1.99
+- Failed Login detected from Employee ID 104 at 192.168.1.99
+- Unauthorized device detected at IP 192.168.1.200
+- Suspicious external IP communication detected: 45.33.21.10
+- Malware alert detected for Employee ID 102
